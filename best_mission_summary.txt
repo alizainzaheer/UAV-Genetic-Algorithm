@@ -1,0 +1,33 @@
+BEST UAV MISSION SUMMARY
+========================
+fitness: -1.1317866660994205
+coverage: 0.8467336683417084
+detection: 1.0
+energy: 830.5645777395064
+time: 217.65765796588818
+risk: 12.48647809600057
+violations: 7.0
+feasible: False
+
+Waypoints by drone (x, y, speed_gene, sensor_on):
+UAV 1:
+  (11.56, 0.00, speed=2, sensor=1)
+  (0.00, 18.68, speed=1, sensor=1)
+  (11.82, 46.05, speed=2, sensor=1)
+  (37.97, 29.80, speed=2, sensor=1)
+  (24.78, 9.24, speed=2, sensor=0)
+  (29.00, 23.00, speed=2, sensor=1)
+UAV 2:
+  (2.56, 48.26, speed=1, sensor=1)
+  (1.39, 21.62, speed=2, sensor=1)
+  (17.25, 5.64, speed=2, sensor=1)
+  (24.73, 2.86, speed=1, sensor=0)
+  (11.00, 37.00, speed=1, sensor=1)
+  (9.01, 31.72, speed=2, sensor=1)
+UAV 3:
+  (5.37, 38.85, speed=1, sensor=1)
+  (22.27, 34.07, speed=1, sensor=0)
+  (42.46, 8.76, speed=1, sensor=1)
+  (49.00, 27.91, speed=2, sensor=1)
+  (44.72, 37.15, speed=2, sensor=1)
+  (43.24, 46.22, speed=1, sensor=1)
